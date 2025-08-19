@@ -5,7 +5,7 @@
 
 **Table of Contents**
 
-- [0.0.0 (2025-08-15)](#000-2025-08-15)
+- [0.0.0 (2025-08-18)](#000-2025-08-18)
   - [Bug Fixes](#bug-fixes)
   - [Code Refactoring](#code-refactoring)
   - [Features](#features)
@@ -167,7 +167,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# [0.0.0](https://github.com/ory/keto/compare/v0.14.0...v0.0.0) (2025-08-15)
+# [0.0.0](https://github.com/ory/keto/compare/v0.14.0...v0.0.0) (2025-08-18)
 
 ### Bug Fixes
 
@@ -185,6 +185,16 @@
   ([4af256d](https://github.com/ory/keto/commit/4af256de453ec1fd86757b70028685edfd9d2df7)):
 
   GitOrigin-RevId: 94c68daeded4f3b6f42d079d71415d8935a74e69
+
+- **deps:** Update dependency @grpc/grpc-js to v1.8.22 [security]
+  ([7315350](https://github.com/ory/keto/commit/7315350ee43707912ae41241d6f2b8e2ab471b4f)):
+
+  GitOrigin-RevId: 5ea94eaf5494ad0e4df2cb3dac29c00e52716258
+
+- **deps:** Update go-x
+  ([ce0b6dd](https://github.com/ory/keto/commit/ce0b6dd791544bc66b6d4858f289b082781ff1bf)):
+
+  GitOrigin-RevId: 2d32f7710b9c6111a30f4e0d3cc0abc967d7dfb6
 
 - Include go.mod in vendored oryx
   ([03b3bae](https://github.com/ory/keto/commit/03b3bae550514685d5dc2e654b55bfeeaff62d22)):
