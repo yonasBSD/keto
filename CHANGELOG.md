@@ -5,7 +5,7 @@
 
 **Table of Contents**
 
-- [0.0.0 (2025-08-18)](#000-2025-08-18)
+- [0.0.0 (2025-08-19)](#000-2025-08-19)
   - [Bug Fixes](#bug-fixes)
   - [Code Refactoring](#code-refactoring)
   - [Features](#features)
@@ -167,7 +167,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# [0.0.0](https://github.com/ory/keto/compare/v0.14.0...v0.0.0) (2025-08-18)
+# [0.0.0](https://github.com/ory/keto/compare/v0.14.0...v0.0.0) (2025-08-19)
 
 ### Bug Fixes
 
@@ -271,6 +271,11 @@
   ([c4d8d94](https://github.com/ory/keto/commit/c4d8d94277a7830c1f4c243da06aacf0bd94e541)):
 
   GitOrigin-RevId: 8d6ee03cc8181d3277100a4b7412a3a113799964
+
+- **changelog:** Migrate http router to stdlib router
+  ([d1a6695](https://github.com/ory/keto/commit/d1a66955b899c55d1f79f31288588037a5c7991b)):
+
+  GitOrigin-RevId: ebd7ec330a4f7b9826cb70ba36ba2f727ea64c96
 
 - **keto:** Encrypted page tokens
   ([1483345](https://github.com/ory/keto/commit/14833453189f977095d3e67580312addbb18a201)):
